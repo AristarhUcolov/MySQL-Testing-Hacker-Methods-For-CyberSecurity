@@ -1,4 +1,4 @@
-# 🔥💻 Hacker Database System - Created by Aristarh Ucolov 💻🔥
+# 🔥💻 Хакерская Система Базы Данных — Разработано Аристарх Уколов 💻🔥
 # RU
 ## Описание
 
