@@ -1,5 +1,5 @@
-# 🔥💻 Хакерская Система Базы Данных — Разработано Аристарх Уколов 💻🔥
 # RU
+## 🔥💻 Хакерская Система Базы Данных — Разработано Аристарх Уколов 💻🔥
 <img src="https://github.com/user-attachments/assets/312fc805-7545-47e9-9d8e-76474939b6f2" width="500">
 
 ## Описание
@@ -36,7 +36,7 @@
 > **Важно**: Этот код был разработан исключительно для образовательных целей и не предназначен для использования в реальных системах, требующих высокого уровня безопасности.
 
 # ENG
-# 🔥💻 Hacker Database System - Created by Aristarh Ucolov 💻🔥
+## 🔥💻 Hacker Database System - Created by Aristarh Ucolov 💻🔥
 <img src="https://github.com/user-attachments/assets/312fc805-7545-47e9-9d8e-76474939b6f2" width="500">
 
 ## Description
