@@ -1,8 +1,8 @@
 # 🔥💻 Хакерская Система Базы Данных — Разработано Аристарх Уколов 💻🔥
 # RU
-<img src="https://github.com/user-attachments/assets/312fc805-7545-47e9-9d8e-76474939b6f2" width="300">
-## Описание
+<img src="https://github.com/user-attachments/assets/312fc805-7545-47e9-9d8e-76474939b6f2" width="500">
 
+## Описание
 Этот проект, разработанный **Аристарх Уколов**, представляет собой **систему базы данных для сотрудников** с хакерскими процедурами. Он включает в себя основные операции с базой данных, такие как создание таблицы, добавление, обновление и удаление данных, а также манипуляции с ними (например, инвертирование имен).
 
 Проект предназначен для:
@@ -37,9 +37,9 @@
 
 # ENG
 # 🔥💻 Hacker Database System - Created by Aristarh Ucolov 💻🔥
-<img src="https://github.com/user-attachments/assets/312fc805-7545-47e9-9d8e-76474939b6f2" width="300">
-## Description
+<img src="https://github.com/user-attachments/assets/312fc805-7545-47e9-9d8e-76474939b6f2" width="500">
 
+## Description
 This project, developed by **Aristarh Ucolov**, is a **database system for managing employees** with hacker-style procedures. It includes basic database operations such as table creation, data insertion, updating, deletion, and data manipulation (e.g., name inversion).
 
 The project is intended for:
